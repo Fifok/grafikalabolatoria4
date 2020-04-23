@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<svg width="2000" height="2000"  viewBox="0 0 2000 2000"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     xmlns:xlink="http://www.w3.org/1999/xlink" >
+    <defs>
+     <!-- 
+    Zdefiniowanie grupy dwa wielokąty + prostokąt łączący
+-->
+        <g id="poly">
+            <polygon points="198.74639560909117,161.12604669781572 189.09157412340147,181.17449009293668 171.6941869558779,195.04844339512096 150,200 128.3058130441221,195.04844339512096 110.9084258765985,181.17449009293665 101.25360439090882,161.12604669781572 101.25360439090882,138.87395330218428 110.9084258765985,118.82550990706333 128.30581304412212,104.95155660487902 150.00000000000003,100 171.6941869558779,104.95155660487904 189.09157412340147,118.82550990706332 198.74639560909117,138.87395330218428" 
+                            
+					 fill="white" stroke="black" >
+        <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+        </polygon>
+
+
+     <!-- 
+   Linie w wielokątcie po lewej stronie
+-->
+
+ <line x1="150" y1="150" x2="198.74639560909117" y2="161.12604669781572" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+ 
+  <line x1="150" y1="150" x2="189.09157412340147" y2="181.17449009293668" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+  
+    <line x1="150" y1="150" x2="171.6941869558779" y2="195.04844339512096" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    <line x1="150" y1="150" x2="150" y2="200" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    <line x1="150" y1="150" x2="128.3058130441221" y2="195.04844339512096" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    <line x1="150" y1="150" x2="110.9084258765985" y2="181.17449009293665" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    <line x1="150" y1="150" x2="101.25360439090882" y2="161.12604669781572" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    <line x1="150" y1="150" x2="101.25360439090882" y2="138.87395330218428" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    <line x1="150" y1="150" x2="110.9084258765985" y2="118.82550990706333" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    <line x1="150" y1="150" x2="128.30581304412212" y2="104.95155660487902" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    <line x1="150" y1="150" x2="150.00000000000003" y2="100" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    <line x1="150" y1="150" x2="171.6941869558779" y2="104.95155660487904" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    <line x1="150" y1="150" x2="189.09157412340147" y2="118.82550990706332" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    <line x1="150" y1="150" x2="198.74639560909117" y2="138.87395330218428" stroke="black" transform = "translate(150 150)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 150 150"
+                          to="360 150 150"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+    
+    
+         <!-- 
+   Wielokąt po prawej stronie
+-->
+    
+    <polygon points="498.74639560909117,211.12604669781572 489.0915741234015,231.17449009293668 471.6941869558779,245.04844339512096 450,250 428.3058130441221,245.04844339512096 410.90842587659847,231.17449009293665 401.25360439090883,211.12604669781572 401.25360439090883,188.87395330218428 410.9084258765985,168.82550990706332 428.30581304412215,154.95155660487902 450.00000000000006,150 471.6941869558779,154.95155660487904 489.0915741234015,168.82550990706332 498.74639560909117,188.87395330218428" 
+        fill="white" stroke="black">
+                        <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/> 
+    </polygon>
+    
+         <!-- 
+   Linie w wielokątcie po prawej stronie
+-->
+ <line x1="450" y1="200" x2="498.74639560909117" y2="211.12604669781572" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+<line x1="450" y1="200" x2="489.0915741234015" y2="231.17449009293668" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+<line x1="450" y1="200" x2="471.6941869558779" y2="245.04844339512096" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+<line x1="450" y1="200" x2="450" y2="250" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+<line x1="450" y1="200" x2="428.3058130441221" y2="245.04844339512096" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+     <line x1="450" y1="200" x2="410.90842587659847" y2="231.17449009293665" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+<line x1="450" y1="200" x2="401.25360439090883" y2="211.12604669781572" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+<line x1="450" y1="200" x2="401.25360439090883" y2="188.87395330218428" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+ <line x1="450" y1="200" x2="410.9084258765985" y2="168.82550990706332" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+  <line x1="450" y1="200" x2="428.30581304412215" y2="154.95155660487902" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+ <line x1="450" y1="200" x2="450.00000000000006" y2="150" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+ <line x1="450" y1="200" x2="471.6941869558779" y2="154.95155660487904" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+  <line x1="450" y1="200" x2="489.0915741234015" y2="168.82550990706332" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>
+ <line x1="450" y1="200" x2="498.74639560909117" y2="188.87395330218428" stroke="black" transform = "translate(450 200)">
+         <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="0 450 200"
+                          to="360 450 200"
+                          dur="10s"
+                          repeatCount="indefinite"/>
+         </line>       
+ 
+ <!-- 
+   Prostokąt łączący wielokąty
+-->
+ 
+  <rect x="150" y="110" width = "350" height = "20" transform = "rotate (10)" fill="red" />
+        </g>
+
+    </defs>
+    
+         <!-- 
+   Rysowanie obiektów + trójkątne podstawy
+-->
+
+<defs>
+<g id = "obiekt1">
+<use xlink:href = "#poly"/>
+        <polygon points="300,180 260,400 340,400" fill="blue"/>
+        </g>
+</defs>
+<defs>
+<g id = "obiekt2">
+<use xlink:href = "#poly"/>
+        <polygon points="300,180 260,400 340,400" fill="purple"/>
+        </g>
+</defs>
+
+<defs>
+<g id = "obiekt3">
+<use xlink:href = "#poly"/>
+        <polygon points="300,180 260,400 340,400" fill="green"/>
+        </g>
+</defs>
+<use xlink:href = "#obiekt1" transform = "scale(1, 1) translate(150,400)"/>
+<use xlink:href = "#obiekt2" transform = "scale(0.75, 0.75) translate(0,90)"/>
+<use xlink:href = "#obiekt3" transform = "scale(0.5, 0.5) translate(900,280)"/>
+</svg>
